@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Stack
+<img src="https://simpleicons.org/icons/html5.svg/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/>
