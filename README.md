@@ -12,10 +12,9 @@
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://blog.naver.com/dhgg321">
-        <img src="https://img.shields.io/badge/Blog-2D8C3C?style=for-the-badge&logo=bloglovin&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Blog-2D8C3C?style=for-the-badge&logo=nintendo&logoColor=white"> 
     </a>
 
-[네이버 블로그 게시물 - 게시물 제목](https://blog.naver.com/dhgg321/223044785188)
 </div><br>
 
  
