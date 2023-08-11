@@ -14,9 +14,9 @@
     <a href="https://blog.naver.com/dhgg321">
         <img src="https://img.shields.io/badge/Blog-2D8C3C?style=for-the-badge&logo=bloglovin&logoColor=white"> 
     </a>
-    <a href="https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741">
+    /*<a href="https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
-    </a>
+    </a>*/
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
 </div><br>
