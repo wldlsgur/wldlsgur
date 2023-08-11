@@ -12,7 +12,7 @@
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://blog.naver.com/dhgg321">
-        <img src="https://img.shields.io/badge/Blog-2D8C3C?style=for-the-badge&logo=nintendo&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=nintendo&logoColor=white"> 
     </a>
 
 </div><br>
@@ -24,7 +24,7 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="mailto:dhgg321@naver.com">
-        <img src="https://img.shields.io/badge/Naver-2D8C3C?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
     
