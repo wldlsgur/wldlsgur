@@ -6,7 +6,8 @@
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldlsgur&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/wldlsgur)
 
 [![In Hyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldlsgur&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
- 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=dhgg321)](https://solved.ac/dhgg321) 
 <br>
 
 ## 💻 DEV's log 💻
