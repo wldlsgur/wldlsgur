@@ -27,6 +27,9 @@
     <a href="mailto:dhgg321@naver.com">
         <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
+    <a href="https://velog.io/@dhgg321">
+        <img src="https://img.shields.io/badge/Velog-03C75A?style=for-the-badge&logo=book&logoColor=white"> 
+    </a>
 </div><br>
     
 ## 🔨 Stak 🔨
